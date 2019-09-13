@@ -5,7 +5,8 @@ Repositorio de Arduino con AppInventor de la jornada Programador 2019.
 ![app](img/appfinal.png)
 
 <a href="Presentacion.apk" download>Descargar aplicación</a><br>
-<a href="Presentacion.aia" download>Descargar Proyecto App Inventor</a>
+<a href="Presentacion.aia" download>Descargar Proyecto App Inventor</a><br>
+<a href="conexion-con-appinventor.pdf" download>Descargar Presentación</a>
 ### Código App
 ![appcodigo](img/codigoApp.png)
 
