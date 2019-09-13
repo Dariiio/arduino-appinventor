@@ -1,5 +1,5 @@
 # arduino-appinventor
-Repositorio de Arduino con AppInventor de la jornada Programador 2019.
+Repositorio de Arduino con AppInventor jornada Programador 2019.
 
 ## Aplicación App Inventor
 ![app](img/appfinal.png)
